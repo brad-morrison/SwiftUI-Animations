@@ -2,7 +2,7 @@
 //  AnimatedApp.swift
 //  Animated
 //
-//  Created by Bradley Morrison on 03/09/2022.
+//  Created by Brad on 03/09/2022.
 //
 
 import SwiftUI
